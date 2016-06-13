@@ -1,0 +1,45 @@
+{% extends "base.html" %}
+{% block content %}
+	<div class="row">
+	  <div class="col-md-1"></div>
+	  <div class="col-md-10">
+		  <div>
+	  		<h2><font size="4" color="CornflowerBlue ">关键字<font size="4" color="DarkGoldenRod ">-*-{{keywords}}-*-</font>的搜索结果<small> 共{{page_info['total_rows']}}条记录</small></font></h2>
+			  	<table class="table table-striped">
+			  	<tr>
+			  		<th width="10%">公众号名称</th>
+			  		<th width="75%">功能介绍</th>
+			  		<th width="10%">微信帐号</th>
+
+			  	</tr>
+			  	{% for row in page_info['rows'] %}
+			  	<tr>
+			  		<td>{{row['author']}}</td>
+			  		<td><a href="{{row['html']}}" target="_blank">
+			  			{{row['gongzhonghao_type']}}</a></td>
+			  		<td>{{row['weixin_id']}}</td>
+			  	</tr>
+			  	{% endfor %}
+				</table>
+				<!-- 分页组件js -->
+				<script src="static/bugs/js/jquery.twbsPagination.js"></script>
+				<ul id="pagination" class="pagination-sm"></ul>
+				<script >
+					 $(pagination).twbsPagination({
+					 	first: "首页",
+					 	prev: "前一页",
+					 	next: "后一页",
+					 	last: "尾页",
+				        totalPages: {{page_info['total']}},
+				        visiblePages: 5,
+				        startPage: {{page_info['current']}},
+				        onPageClick: function (event, page) {
+				            location.href="/search?keywords={{keywords}}&&content_search_by=by_bugs&&search_by_html={{search_by_html}}&&page="+page;
+				        }
+				    });
+				</script>
+			</div>
+	 	</div>
+	  <div class="col-md-1"></div>
+	</div>
+{% endblock %}

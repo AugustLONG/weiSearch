@@ -1,0 +1,352 @@
+Tue, 24 May 2016 15:22:13 base.py[line:349] INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Tue, 24 May 2016 15:22:13 base.py[line:743] INFO Added job "timed_job_news" to job store "default"
+Tue, 24 May 2016 15:22:13 base.py[line:132] INFO Scheduler started
+Tue, 24 May 2016 15:22:13 base.py[line:795] DEBUG Looking for jobs to run
+Tue, 24 May 2016 15:22:13 base.py[line:840] DEBUG Next wakeup is due at 2016-05-24 15:23:00+08:00 (in 46.153864 seconds)
+Tue, 24 May 2016 15:23:00 base.py[line:795] DEBUG Looking for jobs to run
+Tue, 24 May 2016 15:23:00 base.py[line:110] INFO Running job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/1'], next run at: 2016-05-24 15:23:00 CST)" (scheduled at 2016-05-24 15:23:00+08:00)
+Tue, 24 May 2016 15:23:00 base.py[line:840] DEBUG Next wakeup is due at 2016-05-24 15:24:00+08:00 (in 59.999421 seconds)
+Tue, 24 May 2016 15:23:00 main.py[line:58] INFO running cron job for --微信公众号功能搜索--  spider
+Tue, 24 May 2016 15:23:00 main.py[line:32] INFO running spider: weixin/weixin
+Tue, 24 May 2016 15:23:02 main.py[line:45] INFO end spider: weixin/weixin, runtime: 2 s
+Tue, 24 May 2016 15:23:02 base.py[line:121] INFO Job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/1'], next run at: 2016-05-24 15:24:00 CST)" executed successfully
+Tue, 24 May 2016 15:24:00 base.py[line:795] DEBUG Looking for jobs to run
+Tue, 24 May 2016 15:24:00 base.py[line:110] INFO Running job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/1'], next run at: 2016-05-24 15:24:00 CST)" (scheduled at 2016-05-24 15:24:00+08:00)
+Tue, 24 May 2016 15:24:00 main.py[line:58] INFO running cron job for --微信公众号功能搜索--  spider
+Tue, 24 May 2016 15:24:00 main.py[line:32] INFO running spider: weixin/weixin
+Tue, 24 May 2016 15:24:00 base.py[line:840] DEBUG Next wakeup is due at 2016-05-24 15:25:00+08:00 (in 59.995113 seconds)
+Tue, 24 May 2016 15:24:02 main.py[line:45] INFO end spider: weixin/weixin, runtime: 2 s
+Tue, 24 May 2016 15:24:02 base.py[line:121] INFO Job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/1'], next run at: 2016-05-24 15:25:00 CST)" executed successfully
+Tue, 24 May 2016 15:34:43 base.py[line:349] INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Tue, 24 May 2016 15:34:43 base.py[line:743] INFO Added job "timed_job_news" to job store "default"
+Tue, 24 May 2016 15:34:43 base.py[line:132] INFO Scheduler started
+Tue, 24 May 2016 15:34:43 base.py[line:795] DEBUG Looking for jobs to run
+Tue, 24 May 2016 15:34:43 base.py[line:840] DEBUG Next wakeup is due at 2016-05-24 15:35:00+08:00 (in 16.385296 seconds)
+Tue, 24 May 2016 15:35:00 base.py[line:795] DEBUG Looking for jobs to run
+Tue, 24 May 2016 15:35:00 base.py[line:840] DEBUG Next wakeup is due at 2016-05-24 15:36:00+08:00 (in 59.999415 seconds)
+Tue, 24 May 2016 15:35:00 base.py[line:110] INFO Running job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/1'], next run at: 2016-05-24 15:36:00 CST)" (scheduled at 2016-05-24 15:35:00+08:00)
+Tue, 24 May 2016 15:35:00 main.py[line:58] INFO running cron job for --微信公众号功能搜索--  spider
+Tue, 24 May 2016 15:35:00 main.py[line:32] INFO running spider: weixin/weixin
+Tue, 24 May 2016 15:35:02 main.py[line:45] INFO end spider: weixin/weixin, runtime: 2 s
+Tue, 24 May 2016 15:35:02 base.py[line:121] INFO Job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/1'], next run at: 2016-05-24 15:36:00 CST)" executed successfully
+Tue, 24 May 2016 15:36:00 base.py[line:795] DEBUG Looking for jobs to run
+Tue, 24 May 2016 15:36:00 base.py[line:110] INFO Running job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/1'], next run at: 2016-05-24 15:36:00 CST)" (scheduled at 2016-05-24 15:36:00+08:00)
+Tue, 24 May 2016 15:36:00 base.py[line:840] DEBUG Next wakeup is due at 2016-05-24 15:37:00+08:00 (in 59.998423 seconds)
+Tue, 24 May 2016 15:36:00 main.py[line:58] INFO running cron job for --微信公众号功能搜索--  spider
+Tue, 24 May 2016 15:36:00 main.py[line:32] INFO running spider: weixin/weixin
+Tue, 24 May 2016 15:36:02 main.py[line:45] INFO end spider: weixin/weixin, runtime: 2 s
+Tue, 24 May 2016 15:36:02 base.py[line:121] INFO Job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/1'], next run at: 2016-05-24 15:37:00 CST)" executed successfully
+Tue, 24 May 2016 15:37:00 base.py[line:795] DEBUG Looking for jobs to run
+Tue, 24 May 2016 15:37:00 base.py[line:110] INFO Running job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/1'], next run at: 2016-05-24 15:37:00 CST)" (scheduled at 2016-05-24 15:37:00+08:00)
+Tue, 24 May 2016 15:37:00 main.py[line:58] INFO running cron job for --微信公众号功能搜索--  spider
+Tue, 24 May 2016 15:37:00 base.py[line:840] DEBUG Next wakeup is due at 2016-05-24 15:38:00+08:00 (in 59.998077 seconds)
+Tue, 24 May 2016 15:37:00 main.py[line:32] INFO running spider: weixin/weixin
+Tue, 24 May 2016 15:37:02 main.py[line:45] INFO end spider: weixin/weixin, runtime: 2 s
+Tue, 24 May 2016 15:37:02 base.py[line:121] INFO Job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/1'], next run at: 2016-05-24 15:38:00 CST)" executed successfully
+Tue, 24 May 2016 15:37:55 base.py[line:349] INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Tue, 24 May 2016 15:37:55 base.py[line:743] INFO Added job "timed_job_news" to job store "default"
+Tue, 24 May 2016 15:37:55 base.py[line:132] INFO Scheduler started
+Tue, 24 May 2016 15:37:55 base.py[line:795] DEBUG Looking for jobs to run
+Tue, 24 May 2016 15:37:55 base.py[line:840] DEBUG Next wakeup is due at 2016-05-24 16:00:00+08:00 (in 1324.899982 seconds)
+Tue, 24 May 2016 15:38:00 base.py[line:795] DEBUG Looking for jobs to run
+Tue, 24 May 2016 15:38:00 base.py[line:110] INFO Running job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/1'], next run at: 2016-05-24 15:38:00 CST)" (scheduled at 2016-05-24 15:38:00+08:00)
+Tue, 24 May 2016 15:38:00 main.py[line:58] INFO running cron job for --微信公众号功能搜索--  spider
+Tue, 24 May 2016 15:38:00 main.py[line:32] INFO running spider: weixin/weixin
+Tue, 24 May 2016 15:38:00 base.py[line:840] DEBUG Next wakeup is due at 2016-05-24 15:39:00+08:00 (in 59.997656 seconds)
+Tue, 24 May 2016 15:38:02 main.py[line:45] INFO end spider: weixin/weixin, runtime: 2 s
+Tue, 24 May 2016 15:38:02 base.py[line:121] INFO Job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/1'], next run at: 2016-05-24 15:39:00 CST)" executed successfully
+Tue, 24 May 2016 15:39:00 base.py[line:795] DEBUG Looking for jobs to run
+Tue, 24 May 2016 15:39:00 base.py[line:110] INFO Running job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/1'], next run at: 2016-05-24 15:39:00 CST)" (scheduled at 2016-05-24 15:39:00+08:00)
+Tue, 24 May 2016 15:39:00 main.py[line:58] INFO running cron job for --微信公众号功能搜索--  spider
+Tue, 24 May 2016 15:39:00 base.py[line:840] DEBUG Next wakeup is due at 2016-05-24 15:40:00+08:00 (in 59.996672 seconds)
+Tue, 24 May 2016 15:39:00 main.py[line:32] INFO running spider: weixin/weixin
+Tue, 24 May 2016 15:39:02 main.py[line:45] INFO end spider: weixin/weixin, runtime: 2 s
+Tue, 24 May 2016 15:39:02 base.py[line:121] INFO Job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/1'], next run at: 2016-05-24 15:40:00 CST)" executed successfully
+Tue, 24 May 2016 15:39:23 base.py[line:349] INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Tue, 24 May 2016 15:39:23 base.py[line:743] INFO Added job "timed_job_news" to job store "default"
+Tue, 24 May 2016 15:39:23 base.py[line:132] INFO Scheduler started
+Tue, 24 May 2016 15:39:23 base.py[line:795] DEBUG Looking for jobs to run
+Tue, 24 May 2016 15:39:23 base.py[line:840] DEBUG Next wakeup is due at 2016-05-24 16:00:00+08:00 (in 1236.811799 seconds)
+Tue, 24 May 2016 16:00:00 base.py[line:795] DEBUG Looking for jobs to run
+Tue, 24 May 2016 16:00:00 base.py[line:840] DEBUG Next wakeup is due at 2016-05-24 16:30:00+08:00 (in 1799.999395 seconds)
+Tue, 24 May 2016 16:00:00 base.py[line:110] INFO Running job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-05-24 16:30:00 CST)" (scheduled at 2016-05-24 16:00:00+08:00)
+Tue, 24 May 2016 16:00:00 main.py[line:58] INFO running cron job for --微信公众号功能搜索--  spider
+Tue, 24 May 2016 16:00:00 main.py[line:32] INFO running spider: weixin/weixin
+Tue, 24 May 2016 16:00:02 main.py[line:45] INFO end spider: weixin/weixin, runtime: 2 s
+Tue, 24 May 2016 16:00:02 base.py[line:121] INFO Job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-05-24 16:30:00 CST)" executed successfully
+Tue, 24 May 2016 16:30:00 base.py[line:795] DEBUG Looking for jobs to run
+Tue, 24 May 2016 16:30:00 base.py[line:110] INFO Running job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-05-24 16:30:00 CST)" (scheduled at 2016-05-24 16:30:00+08:00)
+Tue, 24 May 2016 16:30:00 main.py[line:58] INFO running cron job for --微信公众号功能搜索--  spider
+Tue, 24 May 2016 16:30:00 main.py[line:32] INFO running spider: weixin/weixin
+Tue, 24 May 2016 16:30:00 base.py[line:840] DEBUG Next wakeup is due at 2016-05-24 17:00:00+08:00 (in 1799.998375 seconds)
+Tue, 24 May 2016 16:30:01 main.py[line:45] INFO end spider: weixin/weixin, runtime: 1 s
+Tue, 24 May 2016 16:30:01 base.py[line:121] INFO Job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-05-24 17:00:00 CST)" executed successfully
+Tue, 24 May 2016 17:00:00 base.py[line:795] DEBUG Looking for jobs to run
+Tue, 24 May 2016 17:00:00 base.py[line:110] INFO Running job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-05-24 17:00:00 CST)" (scheduled at 2016-05-24 17:00:00+08:00)
+Tue, 24 May 2016 17:00:00 base.py[line:840] DEBUG Next wakeup is due at 2016-05-24 17:30:00+08:00 (in 1799.994950 seconds)
+Tue, 24 May 2016 17:00:00 main.py[line:58] INFO running cron job for --微信公众号功能搜索--  spider
+Tue, 24 May 2016 17:00:00 main.py[line:32] INFO running spider: weixin/weixin
+Tue, 24 May 2016 17:00:01 main.py[line:45] INFO end spider: weixin/weixin, runtime: 1 s
+Tue, 24 May 2016 17:00:01 base.py[line:121] INFO Job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-05-24 17:30:00 CST)" executed successfully
+Tue, 24 May 2016 17:30:00 base.py[line:795] DEBUG Looking for jobs to run
+Tue, 24 May 2016 17:30:00 base.py[line:110] INFO Running job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-05-24 17:30:00 CST)" (scheduled at 2016-05-24 17:30:00+08:00)
+Tue, 24 May 2016 17:30:00 base.py[line:840] DEBUG Next wakeup is due at 2016-05-24 18:00:00+08:00 (in 1799.996842 seconds)
+Tue, 24 May 2016 17:30:00 main.py[line:58] INFO running cron job for --微信公众号功能搜索--  spider
+Tue, 24 May 2016 17:30:00 main.py[line:32] INFO running spider: weixin/weixin
+Tue, 24 May 2016 17:30:02 main.py[line:45] INFO end spider: weixin/weixin, runtime: 2 s
+Tue, 24 May 2016 17:30:02 base.py[line:121] INFO Job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-05-24 18:00:00 CST)" executed successfully
+Tue, 24 May 2016 18:00:00 base.py[line:795] DEBUG Looking for jobs to run
+Tue, 24 May 2016 18:00:00 base.py[line:110] INFO Running job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-05-24 18:00:00 CST)" (scheduled at 2016-05-24 18:00:00+08:00)
+Tue, 24 May 2016 18:00:00 main.py[line:58] INFO running cron job for --微信公众号功能搜索--  spider
+Tue, 24 May 2016 18:00:00 main.py[line:32] INFO running spider: weixin/weixin
+Tue, 24 May 2016 18:00:00 base.py[line:840] DEBUG Next wakeup is due at 2016-05-24 18:30:00+08:00 (in 1799.997618 seconds)
+Tue, 24 May 2016 18:00:01 main.py[line:45] INFO end spider: weixin/weixin, runtime: 1 s
+Tue, 24 May 2016 18:00:01 base.py[line:121] INFO Job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-05-24 18:30:00 CST)" executed successfully
+Tue, 24 May 2016 18:30:00 base.py[line:795] DEBUG Looking for jobs to run
+Tue, 24 May 2016 18:30:00 base.py[line:110] INFO Running job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-05-24 18:30:00 CST)" (scheduled at 2016-05-24 18:30:00+08:00)
+Tue, 24 May 2016 18:30:00 main.py[line:58] INFO running cron job for --微信公众号功能搜索--  spider
+Tue, 24 May 2016 18:30:00 main.py[line:32] INFO running spider: weixin/weixin
+Tue, 24 May 2016 18:30:00 base.py[line:840] DEBUG Next wakeup is due at 2016-05-24 19:00:00+08:00 (in 1799.993962 seconds)
+Tue, 24 May 2016 18:30:02 main.py[line:45] INFO end spider: weixin/weixin, runtime: 2 s
+Tue, 24 May 2016 18:30:02 base.py[line:121] INFO Job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-05-24 19:00:00 CST)" executed successfully
+Wed, 25 May 2016 09:06:28 base.py[line:795] DEBUG Looking for jobs to run
+Wed, 25 May 2016 09:06:28 base.py[line:107] WARNING Run time of job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-05-24 19:00:00 CST)" was missed by 14:06:28.662581
+Wed, 25 May 2016 09:06:28 base.py[line:840] DEBUG Next wakeup is due at 2016-05-25 09:30:00+08:00 (in 1411.348750 seconds)
+Wed, 25 May 2016 09:30:00 base.py[line:795] DEBUG Looking for jobs to run
+Wed, 25 May 2016 09:30:00 base.py[line:110] INFO Running job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-05-25 09:30:00 CST)" (scheduled at 2016-05-25 09:30:00+08:00)
+Wed, 25 May 2016 09:30:00 main.py[line:58] INFO running cron job for --微信公众号功能搜索--  spider
+Wed, 25 May 2016 09:30:00 main.py[line:32] INFO running spider: weixin/weixin
+Wed, 25 May 2016 09:30:00 base.py[line:840] DEBUG Next wakeup is due at 2016-05-25 10:00:00+08:00 (in 1799.978399 seconds)
+Wed, 25 May 2016 09:30:02 main.py[line:45] INFO end spider: weixin/weixin, runtime: 2 s
+Wed, 25 May 2016 09:30:02 base.py[line:121] INFO Job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-05-25 10:00:00 CST)" executed successfully
+Wed, 25 May 2016 16:20:30 base.py[line:349] INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Wed, 25 May 2016 16:20:30 base.py[line:743] INFO Added job "timed_job_news" to job store "default"
+Wed, 25 May 2016 16:20:30 base.py[line:132] INFO Scheduler started
+Wed, 25 May 2016 16:20:30 base.py[line:795] DEBUG Looking for jobs to run
+Wed, 25 May 2016 16:20:30 base.py[line:840] DEBUG Next wakeup is due at 2016-05-25 16:30:00+08:00 (in 569.230089 seconds)
+Wed, 25 May 2016 16:30:00 base.py[line:795] DEBUG Looking for jobs to run
+Wed, 25 May 2016 16:30:00 base.py[line:840] DEBUG Next wakeup is due at 2016-05-25 17:00:00+08:00 (in 1799.999419 seconds)
+Wed, 25 May 2016 16:30:00 base.py[line:110] INFO Running job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-05-25 17:00:00 CST)" (scheduled at 2016-05-25 16:30:00+08:00)
+Wed, 25 May 2016 16:30:00 main.py[line:58] INFO running cron job for --微信公众号功能搜索--  spider
+Wed, 25 May 2016 16:30:00 main.py[line:32] INFO running spider: weixin/weixin
+Wed, 25 May 2016 16:30:02 main.py[line:45] INFO end spider: weixin/weixin, runtime: 2 s
+Wed, 25 May 2016 16:30:02 base.py[line:121] INFO Job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-05-25 17:00:00 CST)" executed successfully
+Wed, 25 May 2016 17:00:00 base.py[line:795] DEBUG Looking for jobs to run
+Wed, 25 May 2016 17:00:00 base.py[line:110] INFO Running job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-05-25 17:00:00 CST)" (scheduled at 2016-05-25 17:00:00+08:00)
+Wed, 25 May 2016 17:00:00 base.py[line:840] DEBUG Next wakeup is due at 2016-05-25 17:30:00+08:00 (in 1799.996969 seconds)
+Wed, 25 May 2016 17:00:00 main.py[line:58] INFO running cron job for --微信公众号功能搜索--  spider
+Wed, 25 May 2016 17:00:00 main.py[line:32] INFO running spider: weixin/weixin
+Wed, 25 May 2016 17:00:02 main.py[line:45] INFO end spider: weixin/weixin, runtime: 2 s
+Wed, 25 May 2016 17:00:02 base.py[line:121] INFO Job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-05-25 17:30:00 CST)" executed successfully
+Wed, 25 May 2016 17:30:00 base.py[line:795] DEBUG Looking for jobs to run
+Wed, 25 May 2016 17:30:00 base.py[line:840] DEBUG Next wakeup is due at 2016-05-25 18:00:00+08:00 (in 1799.996311 seconds)
+Wed, 25 May 2016 17:30:00 base.py[line:110] INFO Running job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-05-25 18:00:00 CST)" (scheduled at 2016-05-25 17:30:00+08:00)
+Wed, 25 May 2016 17:30:00 main.py[line:58] INFO running cron job for --微信公众号功能搜索--  spider
+Wed, 25 May 2016 17:30:00 main.py[line:32] INFO running spider: weixin/weixin
+Wed, 25 May 2016 17:30:01 main.py[line:45] INFO end spider: weixin/weixin, runtime: 1 s
+Wed, 25 May 2016 17:30:01 base.py[line:121] INFO Job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-05-25 18:00:00 CST)" executed successfully
+Wed, 25 May 2016 18:00:00 base.py[line:795] DEBUG Looking for jobs to run
+Wed, 25 May 2016 18:00:00 base.py[line:110] INFO Running job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-05-25 18:00:00 CST)" (scheduled at 2016-05-25 18:00:00+08:00)
+Wed, 25 May 2016 18:00:00 main.py[line:58] INFO running cron job for --微信公众号功能搜索--  spider
+Wed, 25 May 2016 18:00:00 main.py[line:32] INFO running spider: weixin/weixin
+Wed, 25 May 2016 18:00:00 base.py[line:840] DEBUG Next wakeup is due at 2016-05-25 18:30:00+08:00 (in 1799.997000 seconds)
+Wed, 25 May 2016 18:00:01 main.py[line:45] INFO end spider: weixin/weixin, runtime: 1 s
+Wed, 25 May 2016 18:00:01 base.py[line:121] INFO Job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-05-25 18:30:00 CST)" executed successfully
+Wed, 25 May 2016 18:30:00 base.py[line:795] DEBUG Looking for jobs to run
+Wed, 25 May 2016 18:30:00 base.py[line:110] INFO Running job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-05-25 18:30:00 CST)" (scheduled at 2016-05-25 18:30:00+08:00)
+Wed, 25 May 2016 18:30:00 main.py[line:58] INFO running cron job for --微信公众号功能搜索--  spider
+Wed, 25 May 2016 18:30:00 base.py[line:840] DEBUG Next wakeup is due at 2016-05-25 19:00:00+08:00 (in 1799.995609 seconds)
+Wed, 25 May 2016 18:30:00 main.py[line:32] INFO running spider: weixin/weixin
+Wed, 25 May 2016 18:30:02 main.py[line:45] INFO end spider: weixin/weixin, runtime: 2 s
+Wed, 25 May 2016 18:30:02 base.py[line:121] INFO Job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-05-25 19:00:00 CST)" executed successfully
+Thu, 26 May 2016 09:07:00 base.py[line:795] DEBUG Looking for jobs to run
+Thu, 26 May 2016 09:07:00 base.py[line:107] WARNING Run time of job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-05-25 19:00:00 CST)" was missed by 14:07:00.972974
+Thu, 26 May 2016 09:07:00 base.py[line:840] DEBUG Next wakeup is due at 2016-05-26 09:30:00+08:00 (in 1379.296663 seconds)
+Thu, 26 May 2016 09:30:00 base.py[line:795] DEBUG Looking for jobs to run
+Thu, 26 May 2016 09:30:00 base.py[line:110] INFO Running job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-05-26 09:30:00 CST)" (scheduled at 2016-05-26 09:30:00+08:00)
+Thu, 26 May 2016 09:30:00 main.py[line:58] INFO running cron job for --微信公众号功能搜索--  spider
+Thu, 26 May 2016 09:30:00 main.py[line:32] INFO running spider: weixin/weixin
+Thu, 26 May 2016 09:30:00 base.py[line:840] DEBUG Next wakeup is due at 2016-05-26 10:00:00+08:00 (in 1799.676603 seconds)
+Thu, 26 May 2016 09:30:02 main.py[line:45] INFO end spider: weixin/weixin, runtime: 2 s
+Thu, 26 May 2016 09:30:02 base.py[line:121] INFO Job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-05-26 10:00:00 CST)" executed successfully
+Thu, 26 May 2016 10:00:00 base.py[line:795] DEBUG Looking for jobs to run
+Thu, 26 May 2016 10:00:00 base.py[line:110] INFO Running job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-05-26 10:30:00 CST)" (scheduled at 2016-05-26 10:00:00+08:00)
+Thu, 26 May 2016 10:00:00 base.py[line:840] DEBUG Next wakeup is due at 2016-05-26 10:30:00+08:00 (in 1799.964139 seconds)
+Thu, 26 May 2016 10:00:00 main.py[line:58] INFO running cron job for --微信公众号功能搜索--  spider
+Thu, 26 May 2016 10:00:00 main.py[line:32] INFO running spider: weixin/weixin
+Thu, 26 May 2016 10:00:02 main.py[line:45] INFO end spider: weixin/weixin, runtime: 2 s
+Thu, 26 May 2016 10:00:02 base.py[line:121] INFO Job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-05-26 10:30:00 CST)" executed successfully
+Thu, 26 May 2016 10:30:00 base.py[line:795] DEBUG Looking for jobs to run
+Thu, 26 May 2016 10:30:00 base.py[line:110] INFO Running job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-05-26 10:30:00 CST)" (scheduled at 2016-05-26 10:30:00+08:00)
+Thu, 26 May 2016 10:30:00 main.py[line:58] INFO running cron job for --微信公众号功能搜索--  spider
+Thu, 26 May 2016 10:30:00 base.py[line:840] DEBUG Next wakeup is due at 2016-05-26 11:00:00+08:00 (in 1799.958501 seconds)
+Thu, 26 May 2016 10:30:00 main.py[line:32] INFO running spider: weixin/weixin
+Thu, 26 May 2016 10:30:02 main.py[line:45] INFO end spider: weixin/weixin, runtime: 2 s
+Thu, 26 May 2016 10:30:02 base.py[line:121] INFO Job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-05-26 11:00:00 CST)" executed successfully
+Thu, 26 May 2016 11:00:00 base.py[line:795] DEBUG Looking for jobs to run
+Thu, 26 May 2016 11:00:00 base.py[line:110] INFO Running job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-05-26 11:00:00 CST)" (scheduled at 2016-05-26 11:00:00+08:00)
+Thu, 26 May 2016 11:00:00 base.py[line:840] DEBUG Next wakeup is due at 2016-05-26 11:30:00+08:00 (in 1799.971724 seconds)
+Thu, 26 May 2016 11:00:00 main.py[line:58] INFO running cron job for --微信公众号功能搜索--  spider
+Thu, 26 May 2016 11:00:00 main.py[line:32] INFO running spider: weixin/weixin
+Thu, 26 May 2016 11:00:02 main.py[line:45] INFO end spider: weixin/weixin, runtime: 2 s
+Thu, 26 May 2016 11:00:02 base.py[line:121] INFO Job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-05-26 11:30:00 CST)" executed successfully
+Thu, 26 May 2016 11:30:00 base.py[line:795] DEBUG Looking for jobs to run
+Thu, 26 May 2016 11:30:00 base.py[line:110] INFO Running job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-05-26 12:00:00 CST)" (scheduled at 2016-05-26 11:30:00+08:00)
+Thu, 26 May 2016 11:30:00 base.py[line:840] DEBUG Next wakeup is due at 2016-05-26 12:00:00+08:00 (in 1799.968863 seconds)
+Thu, 26 May 2016 11:30:00 main.py[line:58] INFO running cron job for --微信公众号功能搜索--  spider
+Thu, 26 May 2016 11:30:00 main.py[line:32] INFO running spider: weixin/weixin
+Thu, 26 May 2016 11:30:02 main.py[line:45] INFO end spider: weixin/weixin, runtime: 2 s
+Thu, 26 May 2016 11:30:02 base.py[line:121] INFO Job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-05-26 12:00:00 CST)" executed successfully
+Thu, 26 May 2016 12:00:00 base.py[line:795] DEBUG Looking for jobs to run
+Thu, 26 May 2016 12:00:00 base.py[line:840] DEBUG Next wakeup is due at 2016-05-26 12:30:00+08:00 (in 1799.971557 seconds)
+Thu, 26 May 2016 12:00:00 base.py[line:110] INFO Running job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-05-26 12:30:00 CST)" (scheduled at 2016-05-26 12:00:00+08:00)
+Thu, 26 May 2016 12:00:00 main.py[line:58] INFO running cron job for --微信公众号功能搜索--  spider
+Thu, 26 May 2016 12:00:00 main.py[line:32] INFO running spider: weixin/weixin
+Thu, 26 May 2016 12:00:02 main.py[line:45] INFO end spider: weixin/weixin, runtime: 2 s
+Thu, 26 May 2016 12:00:02 base.py[line:121] INFO Job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-05-26 12:30:00 CST)" executed successfully
+Thu, 26 May 2016 12:30:00 base.py[line:795] DEBUG Looking for jobs to run
+Thu, 26 May 2016 12:30:00 base.py[line:840] DEBUG Next wakeup is due at 2016-05-26 13:00:00+08:00 (in 1799.997102 seconds)
+Thu, 26 May 2016 12:30:00 base.py[line:110] INFO Running job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-05-26 13:00:00 CST)" (scheduled at 2016-05-26 12:30:00+08:00)
+Thu, 26 May 2016 12:30:00 main.py[line:58] INFO running cron job for --微信公众号功能搜索--  spider
+Thu, 26 May 2016 12:30:00 main.py[line:32] INFO running spider: weixin/weixin
+Thu, 26 May 2016 12:30:03 main.py[line:45] INFO end spider: weixin/weixin, runtime: 3 s
+Thu, 26 May 2016 12:30:03 base.py[line:121] INFO Job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-05-26 13:00:00 CST)" executed successfully
+Thu, 26 May 2016 13:00:00 base.py[line:795] DEBUG Looking for jobs to run
+Thu, 26 May 2016 13:00:00 base.py[line:110] INFO Running job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-05-26 13:30:00 CST)" (scheduled at 2016-05-26 13:00:00+08:00)
+Thu, 26 May 2016 13:00:00 main.py[line:58] INFO running cron job for --微信公众号功能搜索--  spider
+Thu, 26 May 2016 13:00:00 main.py[line:32] INFO running spider: weixin/weixin
+Thu, 26 May 2016 13:00:00 base.py[line:840] DEBUG Next wakeup is due at 2016-05-26 13:30:00+08:00 (in 1799.994421 seconds)
+Thu, 26 May 2016 13:00:02 main.py[line:45] INFO end spider: weixin/weixin, runtime: 2 s
+Thu, 26 May 2016 13:00:02 base.py[line:121] INFO Job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-05-26 13:30:00 CST)" executed successfully
+Thu, 26 May 2016 13:30:00 base.py[line:795] DEBUG Looking for jobs to run
+Thu, 26 May 2016 13:30:00 base.py[line:840] DEBUG Next wakeup is due at 2016-05-26 14:00:00+08:00 (in 1799.992681 seconds)
+Thu, 26 May 2016 13:30:00 base.py[line:110] INFO Running job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-05-26 14:00:00 CST)" (scheduled at 2016-05-26 13:30:00+08:00)
+Thu, 26 May 2016 13:30:00 main.py[line:58] INFO running cron job for --微信公众号功能搜索--  spider
+Thu, 26 May 2016 13:30:00 main.py[line:32] INFO running spider: weixin/weixin
+Thu, 26 May 2016 13:30:02 main.py[line:45] INFO end spider: weixin/weixin, runtime: 2 s
+Thu, 26 May 2016 13:30:02 base.py[line:121] INFO Job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-05-26 14:00:00 CST)" executed successfully
+Thu, 26 May 2016 14:03:13 base.py[line:795] DEBUG Looking for jobs to run
+Thu, 26 May 2016 14:03:13 base.py[line:840] DEBUG Next wakeup is due at 2016-05-26 14:30:00+08:00 (in 1606.411984 seconds)
+Thu, 26 May 2016 14:03:13 base.py[line:107] WARNING Run time of job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-05-26 14:30:00 CST)" was missed by 0:03:13.619928
+Thu, 26 May 2016 14:30:00 base.py[line:795] DEBUG Looking for jobs to run
+Thu, 26 May 2016 14:30:00 base.py[line:840] DEBUG Next wakeup is due at 2016-05-26 15:00:00+08:00 (in 1799.987612 seconds)
+Thu, 26 May 2016 14:30:00 base.py[line:110] INFO Running job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-05-26 15:00:00 CST)" (scheduled at 2016-05-26 14:30:00+08:00)
+Thu, 26 May 2016 14:30:00 main.py[line:58] INFO running cron job for --微信公众号功能搜索--  spider
+Thu, 26 May 2016 14:30:00 main.py[line:32] INFO running spider: weixin/weixin
+Thu, 26 May 2016 14:30:02 main.py[line:45] INFO end spider: weixin/weixin, runtime: 2 s
+Thu, 26 May 2016 14:30:02 base.py[line:121] INFO Job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-05-26 15:00:00 CST)" executed successfully
+Thu, 26 May 2016 15:00:00 base.py[line:795] DEBUG Looking for jobs to run
+Thu, 26 May 2016 15:00:00 base.py[line:840] DEBUG Next wakeup is due at 2016-05-26 15:30:00+08:00 (in 1799.997353 seconds)
+Thu, 26 May 2016 15:00:00 base.py[line:110] INFO Running job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-05-26 15:30:00 CST)" (scheduled at 2016-05-26 15:00:00+08:00)
+Thu, 26 May 2016 15:00:00 main.py[line:58] INFO running cron job for --微信公众号功能搜索--  spider
+Thu, 26 May 2016 15:00:00 main.py[line:32] INFO running spider: weixin/weixin
+Thu, 26 May 2016 15:00:03 main.py[line:45] INFO end spider: weixin/weixin, runtime: 3 s
+Thu, 26 May 2016 15:00:03 base.py[line:121] INFO Job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-05-26 15:30:00 CST)" executed successfully
+Thu, 26 May 2016 15:30:00 base.py[line:795] DEBUG Looking for jobs to run
+Thu, 26 May 2016 15:30:00 base.py[line:840] DEBUG Next wakeup is due at 2016-05-26 16:00:00+08:00 (in 1799.998972 seconds)
+Thu, 26 May 2016 15:30:00 base.py[line:110] INFO Running job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-05-26 16:00:00 CST)" (scheduled at 2016-05-26 15:30:00+08:00)
+Thu, 26 May 2016 15:30:00 main.py[line:58] INFO running cron job for --微信公众号功能搜索--  spider
+Thu, 26 May 2016 15:30:00 main.py[line:32] INFO running spider: weixin/weixin
+Thu, 26 May 2016 15:30:02 main.py[line:45] INFO end spider: weixin/weixin, runtime: 2 s
+Thu, 26 May 2016 15:30:02 base.py[line:121] INFO Job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-05-26 16:00:00 CST)" executed successfully
+Thu, 26 May 2016 16:00:00 base.py[line:795] DEBUG Looking for jobs to run
+Thu, 26 May 2016 16:00:00 base.py[line:840] DEBUG Next wakeup is due at 2016-05-26 16:30:00+08:00 (in 1799.996980 seconds)
+Thu, 26 May 2016 16:00:00 base.py[line:110] INFO Running job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-05-26 16:30:00 CST)" (scheduled at 2016-05-26 16:00:00+08:00)
+Thu, 26 May 2016 16:00:00 main.py[line:58] INFO running cron job for --微信公众号功能搜索--  spider
+Thu, 26 May 2016 16:00:00 main.py[line:32] INFO running spider: weixin/weixin
+Thu, 26 May 2016 16:00:02 main.py[line:45] INFO end spider: weixin/weixin, runtime: 2 s
+Thu, 26 May 2016 16:00:02 base.py[line:121] INFO Job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-05-26 16:30:00 CST)" executed successfully
+Thu, 26 May 2016 16:30:00 base.py[line:795] DEBUG Looking for jobs to run
+Thu, 26 May 2016 16:30:00 base.py[line:840] DEBUG Next wakeup is due at 2016-05-26 17:00:00+08:00 (in 1799.994761 seconds)
+Thu, 26 May 2016 16:30:00 base.py[line:110] INFO Running job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-05-26 17:00:00 CST)" (scheduled at 2016-05-26 16:30:00+08:00)
+Thu, 26 May 2016 16:30:00 main.py[line:58] INFO running cron job for --微信公众号功能搜索--  spider
+Thu, 26 May 2016 16:30:00 main.py[line:32] INFO running spider: weixin/weixin
+Thu, 26 May 2016 16:30:03 main.py[line:45] INFO end spider: weixin/weixin, runtime: 3 s
+Thu, 26 May 2016 16:30:03 base.py[line:121] INFO Job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-05-26 17:00:00 CST)" executed successfully
+Thu, 26 May 2016 17:00:00 base.py[line:795] DEBUG Looking for jobs to run
+Thu, 26 May 2016 17:00:00 base.py[line:840] DEBUG Next wakeup is due at 2016-05-26 17:30:00+08:00 (in 1799.996625 seconds)
+Thu, 26 May 2016 17:00:00 base.py[line:110] INFO Running job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-05-26 17:30:00 CST)" (scheduled at 2016-05-26 17:00:00+08:00)
+Thu, 26 May 2016 17:00:00 main.py[line:58] INFO running cron job for --微信公众号功能搜索--  spider
+Thu, 26 May 2016 17:00:00 main.py[line:32] INFO running spider: weixin/weixin
+Thu, 26 May 2016 17:00:02 main.py[line:45] INFO end spider: weixin/weixin, runtime: 2 s
+Thu, 26 May 2016 17:00:02 base.py[line:121] INFO Job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-05-26 17:30:00 CST)" executed successfully
+Thu, 26 May 2016 17:30:00 base.py[line:795] DEBUG Looking for jobs to run
+Thu, 26 May 2016 17:30:00 base.py[line:840] DEBUG Next wakeup is due at 2016-05-26 18:00:00+08:00 (in 1799.998348 seconds)
+Thu, 26 May 2016 17:30:00 base.py[line:110] INFO Running job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-05-26 18:00:00 CST)" (scheduled at 2016-05-26 17:30:00+08:00)
+Thu, 26 May 2016 17:30:00 main.py[line:58] INFO running cron job for --微信公众号功能搜索--  spider
+Thu, 26 May 2016 17:30:00 main.py[line:32] INFO running spider: weixin/weixin
+Thu, 26 May 2016 17:30:02 main.py[line:45] INFO end spider: weixin/weixin, runtime: 2 s
+Thu, 26 May 2016 17:30:02 base.py[line:121] INFO Job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-05-26 18:00:00 CST)" executed successfully
+Thu, 26 May 2016 18:00:00 base.py[line:795] DEBUG Looking for jobs to run
+Thu, 26 May 2016 18:00:00 base.py[line:840] DEBUG Next wakeup is due at 2016-05-26 18:30:00+08:00 (in 1799.998524 seconds)
+Thu, 26 May 2016 18:00:00 base.py[line:110] INFO Running job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-05-26 18:30:00 CST)" (scheduled at 2016-05-26 18:00:00+08:00)
+Thu, 26 May 2016 18:00:00 main.py[line:58] INFO running cron job for --微信公众号功能搜索--  spider
+Thu, 26 May 2016 18:00:00 main.py[line:32] INFO running spider: weixin/weixin
+Thu, 26 May 2016 18:00:02 main.py[line:45] INFO end spider: weixin/weixin, runtime: 2 s
+Thu, 26 May 2016 18:00:02 base.py[line:121] INFO Job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-05-26 18:30:00 CST)" executed successfully
+Thu, 26 May 2016 18:30:00 base.py[line:795] DEBUG Looking for jobs to run
+Thu, 26 May 2016 18:30:00 base.py[line:840] DEBUG Next wakeup is due at 2016-05-26 19:00:00+08:00 (in 1799.998602 seconds)
+Thu, 26 May 2016 18:30:00 base.py[line:110] INFO Running job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-05-26 19:00:00 CST)" (scheduled at 2016-05-26 18:30:00+08:00)
+Thu, 26 May 2016 18:30:00 main.py[line:58] INFO running cron job for --微信公众号功能搜索--  spider
+Thu, 26 May 2016 18:30:00 main.py[line:32] INFO running spider: weixin/weixin
+Thu, 26 May 2016 18:30:02 main.py[line:45] INFO end spider: weixin/weixin, runtime: 2 s
+Thu, 26 May 2016 18:30:02 base.py[line:121] INFO Job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-05-26 19:00:00 CST)" executed successfully
+Thu, 26 May 2016 19:00:00 base.py[line:795] DEBUG Looking for jobs to run
+Thu, 26 May 2016 19:00:00 base.py[line:840] DEBUG Next wakeup is due at 2016-05-26 19:30:00+08:00 (in 1799.998567 seconds)
+Thu, 26 May 2016 19:00:00 base.py[line:110] INFO Running job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-05-26 19:30:00 CST)" (scheduled at 2016-05-26 19:00:00+08:00)
+Thu, 26 May 2016 19:00:00 main.py[line:58] INFO running cron job for --微信公众号功能搜索--  spider
+Thu, 26 May 2016 19:00:00 main.py[line:32] INFO running spider: weixin/weixin
+Thu, 26 May 2016 19:00:02 main.py[line:45] INFO end spider: weixin/weixin, runtime: 2 s
+Thu, 26 May 2016 19:00:02 base.py[line:121] INFO Job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-05-26 19:30:00 CST)" executed successfully
+Thu, 26 May 2016 19:30:00 base.py[line:795] DEBUG Looking for jobs to run
+Thu, 26 May 2016 19:30:00 base.py[line:840] DEBUG Next wakeup is due at 2016-05-26 20:00:00+08:00 (in 1799.998600 seconds)
+Thu, 26 May 2016 19:30:00 base.py[line:110] INFO Running job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-05-26 20:00:00 CST)" (scheduled at 2016-05-26 19:30:00+08:00)
+Thu, 26 May 2016 19:30:00 main.py[line:58] INFO running cron job for --微信公众号功能搜索--  spider
+Thu, 26 May 2016 19:30:00 main.py[line:32] INFO running spider: weixin/weixin
+Thu, 26 May 2016 19:30:02 main.py[line:45] INFO end spider: weixin/weixin, runtime: 2 s
+Thu, 26 May 2016 19:30:02 base.py[line:121] INFO Job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-05-26 20:00:00 CST)" executed successfully
+Mon, 13 Jun 2016 11:56:24 base.py[line:349] INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Mon, 13 Jun 2016 11:56:24 base.py[line:743] INFO Added job "timed_job_news" to job store "default"
+Mon, 13 Jun 2016 11:56:24 base.py[line:132] INFO Scheduler started
+Mon, 13 Jun 2016 11:56:24 base.py[line:795] DEBUG Looking for jobs to run
+Mon, 13 Jun 2016 11:56:24 base.py[line:840] DEBUG Next wakeup is due at 2016-06-13 12:00:00+08:00 (in 215.643633 seconds)
+Mon, 13 Jun 2016 12:00:00 base.py[line:795] DEBUG Looking for jobs to run
+Mon, 13 Jun 2016 12:00:00 base.py[line:110] INFO Running job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-06-13 12:00:00 CST)" (scheduled at 2016-06-13 12:00:00+08:00)
+Mon, 13 Jun 2016 12:00:00 base.py[line:840] DEBUG Next wakeup is due at 2016-06-13 12:30:00+08:00 (in 1799.997855 seconds)
+Mon, 13 Jun 2016 12:00:00 main.py[line:58] INFO running cron job for --微信公众号功能搜索--  spider
+Mon, 13 Jun 2016 12:00:00 main.py[line:32] INFO running spider: weixin/weixin
+Mon, 13 Jun 2016 12:00:02 main.py[line:45] INFO end spider: weixin/weixin, runtime: 2 s
+Mon, 13 Jun 2016 12:00:02 base.py[line:121] INFO Job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-06-13 12:30:00 CST)" executed successfully
+Mon, 13 Jun 2016 12:30:00 base.py[line:795] DEBUG Looking for jobs to run
+Mon, 13 Jun 2016 12:30:00 base.py[line:110] INFO Running job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-06-13 12:30:00 CST)" (scheduled at 2016-06-13 12:30:00+08:00)
+Mon, 13 Jun 2016 12:30:00 main.py[line:58] INFO running cron job for --微信公众号功能搜索--  spider
+Mon, 13 Jun 2016 12:30:00 main.py[line:32] INFO running spider: weixin/weixin
+Mon, 13 Jun 2016 12:30:00 base.py[line:840] DEBUG Next wakeup is due at 2016-06-13 13:00:00+08:00 (in 1799.996100 seconds)
+Mon, 13 Jun 2016 12:30:02 main.py[line:45] INFO end spider: weixin/weixin, runtime: 2 s
+Mon, 13 Jun 2016 12:30:02 base.py[line:121] INFO Job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-06-13 13:00:00 CST)" executed successfully
+Mon, 13 Jun 2016 13:00:00 base.py[line:795] DEBUG Looking for jobs to run
+Mon, 13 Jun 2016 13:00:00 base.py[line:110] INFO Running job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-06-13 13:00:00 CST)" (scheduled at 2016-06-13 13:00:00+08:00)
+Mon, 13 Jun 2016 13:00:00 base.py[line:840] DEBUG Next wakeup is due at 2016-06-13 13:30:00+08:00 (in 1799.990509 seconds)
+Mon, 13 Jun 2016 13:00:00 main.py[line:58] INFO running cron job for --微信公众号功能搜索--  spider
+Mon, 13 Jun 2016 13:00:00 main.py[line:32] INFO running spider: weixin/weixin
+Mon, 13 Jun 2016 13:00:02 main.py[line:45] INFO end spider: weixin/weixin, runtime: 2 s
+Mon, 13 Jun 2016 13:00:02 base.py[line:121] INFO Job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-06-13 13:30:00 CST)" executed successfully
+Mon, 13 Jun 2016 13:30:00 base.py[line:795] DEBUG Looking for jobs to run
+Mon, 13 Jun 2016 13:30:00 base.py[line:110] INFO Running job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-06-13 13:30:00 CST)" (scheduled at 2016-06-13 13:30:00+08:00)
+Mon, 13 Jun 2016 13:30:00 main.py[line:58] INFO running cron job for --微信公众号功能搜索--  spider
+Mon, 13 Jun 2016 13:30:00 main.py[line:32] INFO running spider: weixin/weixin
+Mon, 13 Jun 2016 13:30:00 base.py[line:840] DEBUG Next wakeup is due at 2016-06-13 14:00:00+08:00 (in 1799.990962 seconds)
+Mon, 13 Jun 2016 13:30:01 main.py[line:45] INFO end spider: weixin/weixin, runtime: 1 s
+Mon, 13 Jun 2016 13:30:01 base.py[line:121] INFO Job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-06-13 14:00:00 CST)" executed successfully
+Mon, 13 Jun 2016 14:00:00 base.py[line:795] DEBUG Looking for jobs to run
+Mon, 13 Jun 2016 14:00:00 base.py[line:110] INFO Running job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-06-13 14:00:00 CST)" (scheduled at 2016-06-13 14:00:00+08:00)
+Mon, 13 Jun 2016 14:00:00 main.py[line:58] INFO running cron job for --微信公众号功能搜索--  spider
+Mon, 13 Jun 2016 14:00:00 main.py[line:32] INFO running spider: weixin/weixin
+Mon, 13 Jun 2016 14:00:00 base.py[line:840] DEBUG Next wakeup is due at 2016-06-13 14:30:00+08:00 (in 1799.984523 seconds)
+Mon, 13 Jun 2016 14:00:01 main.py[line:45] INFO end spider: weixin/weixin, runtime: 1 s
+Mon, 13 Jun 2016 14:00:01 base.py[line:121] INFO Job "timed_job_news (trigger: cron[day_of_week='mon-sun', hour='5-23', minute='*/30'], next run at: 2016-06-13 14:30:00 CST)" executed successfully
+Mon, 13 Jun 2016 14:15:10 base.py[line:349] INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Mon, 13 Jun 2016 14:15:10 base.py[line:743] INFO Added job "timed_job_news" to job store "default"
+Mon, 13 Jun 2016 14:15:10 base.py[line:132] INFO Scheduler started
+Mon, 13 Jun 2016 14:15:10 base.py[line:795] DEBUG Looking for jobs to run
+Mon, 13 Jun 2016 14:15:10 base.py[line:840] DEBUG Next wakeup is due at 2016-06-13 14:30:00+08:00 (in 889.808878 seconds)
